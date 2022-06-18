@@ -11,3 +11,7 @@ code .
 git status
 
 git add hallo.txt
+
+A? gespeichert
+
+M? nicht gespeichert
